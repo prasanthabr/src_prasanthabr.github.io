@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/vim/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poetry/</loc>
+    <lastmod>2019-06-06T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/biz/</loc>
+  </url>
+  
+  <url>
+    <loc>/food/</loc>
+  </url>
+  
+  <url>
+    <loc>/tech/</loc>
+  </url>
+  
+  <url>
+    <loc>/espa%C3%B1ol/</loc>
+  </url>
+  
+  <url>
+    <loc>/js/</loc>
+  </url>
+  
+  <url>
+    <loc>/ror/</loc>
+  </url>
+  
+  <url>
+    <loc>/self/</loc>
+  </url>
+  
+  <url>
+    <loc>/sfdc/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/vim/shortcuts/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prasanthabr/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/shortcuts/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/vim/</loc>
+    <lastmod>2019-06-16T21:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/poetry/poem/</loc>
+    <lastmod>2019-06-06T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/poems/</loc>
+    <lastmod>2019-06-06T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/soul/</loc>
+    <lastmod>2019-06-06T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/spanish/</loc>
+    <lastmod>2019-06-06T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

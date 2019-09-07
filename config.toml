@@ -6,7 +6,7 @@ copyright = ""
 theme = "minimo"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-52907906-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -35,7 +35,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 prefix = "any original content here is free as the clean <a href=\"https://www.newzealand.com/int/\">Aotearoa</a> air"
 holder = "prasanth abraham"
 startYear = ""
-suffix = "| find this useful? <a href=\"https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)\" target=\"_blank\">go nuts</a>"
+suffix = "| find any of this useful? <a href=\"https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)\" target=\"_blank\">go nuts</a>"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -76,12 +76,12 @@ titleSeparator = "•"
 codepen = ""
 email = ""
 facebook = ""
-github = ""
+github = "prasanthabr"
 gitlab = ""
 instagram = ""
 linkedin = ""
-twitter = ""
-telegram = ""
+twitter = "prasanthabr"
+telegram = "onlyexception"
 google_scholar = ""
 youtube = ""
 
@@ -129,10 +129,6 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com//prasanthabr"
 
 [blackfriday]
 hrefTargetBlank = true
