@@ -8,3 +8,5 @@ menu:
 weight: -250
 slug: tech
 ---
+
+So what do i want to learn today?

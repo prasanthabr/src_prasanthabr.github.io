@@ -11,7 +11,7 @@
         {{- end -}}
       {{- end -}}
       
-      {{ .prefix | markdownify }}<br /> &copy; {{ with ( $.Scratch.Get "copyrightStartYear" ) }}{{ . }}-{{ end }}{{ now.Year }} {{ or .holder $.Site.Title | markdownify }} {{ .suffix | markdownify }}
+      {{ .gyan | markdownify }}<br />{{ .prefix | markdownify }}<br /> &copy; {{ with ( $.Scratch.Get "copyrightStartYear" ) }}{{ . }}-{{ end }}{{ now.Year }} {{ or .holder $.Site.Title | markdownify }} {{ .suffix | markdownify }}
     {{- end -}}
   {{- end -}}
   </p>

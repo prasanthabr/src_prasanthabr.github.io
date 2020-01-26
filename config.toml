@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "prasanthabr"
+description = "prasanthabr / onlyexception"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -32,6 +32,7 @@ customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
+gyan = "**This site in on a (_constant_) state of (re)build**"
 prefix = "any original content here is free as the clean <a href=\"https://www.newzealand.com/int/\">Aotearoa</a> air"
 holder = "prasanth abraham"
 startYear = ""
@@ -79,7 +80,7 @@ facebook = ""
 github = "prasanthabr"
 gitlab = ""
 instagram = ""
-linkedin = ""
+linkedin = "prasanthabr"
 twitter = "prasanthabr"
 telegram = "onlyexception"
 google_scholar = ""

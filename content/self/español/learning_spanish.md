@@ -1,6 +1,6 @@
 ---
 date: 2019-06-16T21:00:00+06:00
-title: Understanding 'I Love You' in Spanish
+title: Saying 'I love you' and meaning it a hundred different ways
 authors: ["prasanthabr"]
 categories:
   - spanish

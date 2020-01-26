@@ -6,7 +6,7 @@ authors: ["prasanthabr"]
 categories:
   - Salesforce.com
 tags:
-slug: sfdc
+slug: wake up to apex
 draft: true
 ---
 
