@@ -9,4 +9,6 @@ weight: -250
 slug: tech
 ---
 
-So what do i want to learn today?
+Wassup!?
+
+https://dn.ht/intermediate-vim/
