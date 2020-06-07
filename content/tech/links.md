@@ -14,3 +14,5 @@ VIM
 https://dn.ht/intermediate-vim/
 
 https://www.linux.com/training-tutorials/vim-201-intermediate-guide-vim/
+
+https://zerodha.tech/blog/hello-world/

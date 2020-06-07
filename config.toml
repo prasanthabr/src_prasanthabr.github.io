@@ -33,10 +33,10 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 gyan = "**This site in on a (_constant_) state of (re)build**"
-prefix = "any original content here is free as the clean <a href=\"https://www.newzealand.com/int/\">Aotearoa</a> air"
+prefix = "any original content here is free as the clean [Aotearoa](https://www.newzealand.com/int/) air"
 holder = "prasanth abraham"
 startYear = ""
-suffix = "| find any of this useful? <a href=\"https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)\" target=\"_blank\">go nuts</a>"
+suffix = "| find any of this useful? [go nuts](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -77,11 +77,11 @@ titleSeparator = "•"
 codepen = ""
 email = ""
 facebook = ""
-github = "prasanthabr"
+github = ""
 gitlab = ""
 instagram = ""
-linkedin = "prasanthabr"
-twitter = "prasanthabr"
+linkedin = ""
+twitter = ""
 telegram = "onlyexception"
 google_scholar = ""
 youtube = ""
