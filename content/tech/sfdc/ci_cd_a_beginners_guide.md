@@ -1,13 +1,13 @@
 ---
 date: 2020-05-25T06:00:00+06:00
 lastmod: 2020-05-25T06:00:00+06:00
-title: Inventory Management
+title: CI / CD How to Guide
 authors: ["prasanthabr"]
 categories: 
   - Salesforce
-  - Inventory Management
+  - CI
 tags: ["best practice","Salesforce"]
-slug: sf-inventory
+slug: sf-cicd
 draft: true
 ---
 
