@@ -1,6 +1,6 @@
 ---
-date: 2020-08-23T16:00:00+06:00
-lastmod: 2020-08-23T17:30:00+06:00
+date: 2020-08-23T16:00:00+12:00
+lastmod: 2020-08-23T17:30:00+12:00
 title: I am the best! - Ali
 authors: ["prasanthabr"]
 categories:
@@ -10,31 +10,30 @@ slug: self
 draft: false
 ---
 
-In a world far away from home, defined by cut throat competition, with no one really looking out for you really.  
-How do you shine with the skills that you have?  
+In a world defined by cut throat competition, with no one really looking out for you; How do you shine with the skills that you have?  
 
-Here's to the crazy ones.  
-The misfits. The rebels. The troublemakers.  
-The round pegs in the square holes.  
-The ones who see things differently. 
+> Here's to the crazy ones.  
+> The misfits. The rebels. The troublemakers.  
+> The round pegs in the square holes.  
+> The ones who see things differently. 
+> 
+> They're not fond of rules. And they have no respect for the status quo.  
+> You can quote them, disagree with them, glorify or vilify them.  
+> About the only thing you can't do is ignore them.  
+> Because they change things.
+> 
+> They push the human race forward.  
+> And while some may see them as the crazy ones, we see genius.  
+> Because the people who are crazy enough to think they can change the world, are the ones who do.
 
-They're not fond of rules. And they have no respect for the status quo.  
-You can quote them, disagree with them, glorify or vilify them.  
-About the only thing you can't do is ignore them.  
-Because they change things.
-
-They push the human race forward.  
-And while some may see them as the crazy ones, we see genius.  
-Because the people who are crazy enough to think they can change the world, are the ones who do.
-
-- [*Rob Siltanen*](https://fs.blog/2016/03/steve-jobs-crazy-ones/)
+-- [*Rob Siltanen*](https://fs.blog/2016/03/steve-jobs-crazy-ones/)
 
 # Self-Confidence  
-The belief that regardless of the odds and regardless of how improbably and impossible it seems, you alone is enough to achieve what you aim to do.
+The belief that regardless of the odds and regardless of how improbable and impossible it seems, you alone are enough to achieve what you aim to do.
 
 *(noun)​ confidence in yourself and your abilities*
 
-**Repetiion**  
+**Repetition**  
 The master has failed more times that the apprentice has even tried.  
 Persistence, with iterative learning is the key to building your self confidence.  
 

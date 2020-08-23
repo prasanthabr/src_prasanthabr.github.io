@@ -8,7 +8,7 @@ categories:
   - Service Cloud Foundation
 tags: ["best practice","Salesforce"]
 slug: sf-inventory
-draft: false
+draft: true
 ---
 
 
