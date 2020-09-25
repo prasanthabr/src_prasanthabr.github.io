@@ -4,6 +4,7 @@ menu:
 weight: -270
 ---
 
+A constant reminder to keep me on the path that I have to follow:
 
 > Si consideras largo y loco  
 > el viento de banderas  
@@ -17,19 +18,6 @@ weight: -270
 > levantaré los brazos  
 > y saldrán mis raíces  
 > a buscar otra tierra.  
-> 
-> Pero  
-> si cada día,  
-> cada hora  
-> sientes que a mí estás destinada  
-> con dulzura implacable.  
-> Si cada día sube  
-> una flor a tus labios a buscarme,  
-> ay amor mío, ay mía,  
-> en mí todo ese fuego se repite,  
-> en mí nada se apaga ni se olvida,  
-> mi amor se nutre de tu amor, amada,  
-> y mientras vivas estará en tus brazos  
-> sin salir de los míos.  
+>  
 
 [Si tú me olvidas]({{< relref "Si tú me olvidas.md" >}})
