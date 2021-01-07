@@ -4,20 +4,11 @@ menu:
 weight: -270
 ---
 
-A constant reminder to keep me on the path that I have to follow:
+Keep seeking anew; push your regrets out of the way.  
+[Nothing really matters](https://www.youtube.com/watch?v=fJ9rUzIMcZQ), unless you want it to.  
 
-> Si consideras largo y loco  
-> el viento de banderas  
-> que pasa por mi vida  
-> y te decides  
-> a dejarme a la orilla  
-> del corazón en que tengo raíces,  
-> piensa  
-> que en ese día,  
-> a esa hora  
-> levantaré los brazos  
-> y saldrán mis raíces  
-> a buscar otra tierra.  
->  
-
-[Si tú me olvidas]({{< relref "Si tú me olvidas.md" >}})
+> We are not now that strength which in old days  
+> Moved earth and heaven, that which we are, we are,  
+> One equal temper of heroic hearts,  
+> Made weak by time and fate, but strong in will  
+> To strive, to seek, to find, and not to yield.  

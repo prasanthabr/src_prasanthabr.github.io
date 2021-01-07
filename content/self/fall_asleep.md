@@ -7,7 +7,7 @@ categories:
   - lifeskill
 tags:
 slug: self
-draft: false
+draft: true
 ---
 
 __Reminder__

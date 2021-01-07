@@ -6,7 +6,7 @@ authors: ["prasanthabr"]
 categories:
   - soul
 tags:
-slug: self
+slug: the-finger
 draft: false
 ---
 
