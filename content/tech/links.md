@@ -17,6 +17,9 @@ https://www.linux.com/training-tutorials/vim-201-intermediate-guide-vim/
 
 https://zerodha.tech/blog/hello-world/
 
+## Intresting Blogs  
+https://neilkakkar.com/
+
 [Snassy Maps][1]  
 [{!blog.concret.io}][2]  
 [Andy in the cloud][3]  
