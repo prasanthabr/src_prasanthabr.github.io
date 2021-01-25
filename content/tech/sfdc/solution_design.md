@@ -1,6 +1,6 @@
 ---
-date: 2021-01-18T06:00:00+06:00
-lastmod: 2021-01-18T06:00:00+06:00
+date: 2021-01-17T06:00:00+06:00
+lastmod: 2021-01-17T06:00:00+06:00
 title: How do I design an SFDC Solution
 authors: ["prasanthabr"]
 categories:

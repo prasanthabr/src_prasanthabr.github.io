@@ -8,12 +8,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>/tech/sfdc/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tech/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -23,11 +28,6 @@
   
   <url>
     <loc>/self/lit/</loc>
-    <lastmod>2019-06-06T17:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tech/</loc>
     <lastmod>2019-06-06T17:30:00+06:00</lastmod>
   </url>
   
@@ -49,12 +49,52 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/design/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/design/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tech/sfdc/sf-design-approach/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/prasanthabr/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/salesforce/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/software/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tech/function-method-procedure/</loc>
+    <lastmod>2021-01-17T06:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -78,27 +118,12 @@
   </url>
   
   <url>
-    <loc>/authors/prasanthabr/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/salesforce/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/salesforce/</loc>
     <lastmod>2021-01-11T12:30:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/survey/</loc>
-    <lastmod>2021-01-11T12:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-01-11T12:30:00+00:00</lastmod>
   </url>
   
