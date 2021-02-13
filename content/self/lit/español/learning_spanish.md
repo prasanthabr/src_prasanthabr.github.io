@@ -7,10 +7,21 @@ categories:
 tags:
   - spanish
 emoji: true
-draft: true
+draft: false
 ---
-_Why do we do things_
+_For the joy of doing something that is difficult for me_
 
-I at times do things merely for the fun of it; though often other times, I take the effort for another person's joy. I have always been weak in languages, it was confusing, I become increasingly concious; in part I care about how I look. This has been always a weakness of mine. Better men would stand on their own stead, but I, while I do not look for appreciation certainly am concerned about looking foolish. Over the years that has made me pensive and quiet, keeping my thoughts and ideas to myself, often only validating it when another has spoken the same idea.
+### Words that i picked up  
+* Hola - Hello
+* Bien - OK
+* Esta Bien - How are you?
+* Te Amo - I love you
+* Te Adoro - I adore you
+* Te quiero - I love you
+* tu - you
+* Y - and (need to make sure this is true - often i hear it as response to esta bien? bien Y tu)
 
-The years 2018 and 2019 were challenging for me in many ways. I moved from my relative comfortable home and work in India to New Zealand. I quickly realised, or perhaps judged myself, that the skills that are valued and revered in my previous life have little or no meaning. Months of effort that c
+
+### Poetry
+Some of the poetry sounds so deep even when translated.  
+Neruda, Pablo
