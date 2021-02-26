@@ -22,6 +22,11 @@
   </url>
   
   <url>
+    <loc>/self/food/</loc>
+    <lastmod>2020-08-23T17:30:00+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/self/</loc>
     <lastmod>2020-08-23T17:30:00+12:00</lastmod>
   </url>
@@ -29,10 +34,6 @@
   <url>
     <loc>/self/lit/espa%C3%B1ol/</loc>
     <lastmod>2019-06-16T21:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/self/food/</loc>
   </url>
   
   <url>
@@ -48,7 +49,11 @@
   </url>
   
   <url>
-    <loc>/tech/ror/</loc>
+    <loc>/tech/all-else/</loc>
+  </url>
+  
+  <url>
+    <loc>/tech/ruby/</loc>
   </url>
   
   <url>
@@ -112,12 +117,12 @@
   </url>
   
   <url>
-    <loc>/categories/platform/</loc>
+    <loc>/tags/platform/</loc>
     <lastmod>2021-01-11T12:30:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/platform/</loc>
+    <loc>/categories/platform/</loc>
     <lastmod>2021-01-11T12:30:00+00:00</lastmod>
   </url>
   
@@ -132,7 +137,22 @@
   </url>
   
   <url>
+    <loc>/categories/fingerlicking/</loc>
+    <lastmod>2020-08-23T17:30:00+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/food/</loc>
+    <lastmod>2020-08-23T17:30:00+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/self/the-finger/</loc>
+    <lastmod>2020-08-23T17:30:00+12:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/self/food/laal-maas/</loc>
     <lastmod>2020-08-23T17:30:00+12:00</lastmod>
   </url>
   
@@ -152,12 +172,12 @@
   </url>
   
   <url>
-    <loc>/categories/spanish/</loc>
+    <loc>/tags/spanish/</loc>
     <lastmod>2019-06-16T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/spanish/</loc>
+    <loc>/categories/spanish/</loc>
     <lastmod>2019-06-16T21:00:00+06:00</lastmod>
   </url>
   
@@ -174,11 +194,6 @@
   <url>
     <loc>/self/lit/espa%C3%B1ol/poem/</loc>
     <lastmod>2019-06-06T17:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tech/vim/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
