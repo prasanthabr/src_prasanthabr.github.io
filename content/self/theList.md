@@ -10,7 +10,11 @@ draft: false
 * https://wakatime.com/developers 
 * https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000G5Eu9UAF
 * https://developer.salesforce.com/docs/metadata-coverage/51
-* https://hapicloud-apiportal.apigee.io/docs/hapi-data-model-v3/1/overview
+* https://hapicloud-apiportal.apigee.io/docs/hapi-data-model-v3/1/overview  
+* https://github.com/kuchin/awesome-cto  
+* https://thevaluable.dev/vim-beginner/  
+* https://thevaluable.dev/vim-intermediate/  
+* https://thevaluable.dev/vim-advanced/
 
 SAP  
 * https://blogs.sap.com/2013/05/21/sap-pi-for-beginners/
