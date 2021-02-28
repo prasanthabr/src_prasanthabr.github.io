@@ -30,7 +30,7 @@ draft: false
 2 pieces of nutmeg  
 15 deseeded Mathania chillies  
 2 1/2 tsp Kashmiri red chilli  
-1 Onion sliced thin
+1 Onion sliced thin  
 3/4 tsp turmeric  
 1 cup water  
 To taste, salt  
