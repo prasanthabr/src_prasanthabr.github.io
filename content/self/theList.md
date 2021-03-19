@@ -19,3 +19,6 @@ draft: false
 SAP  
 * https://blogs.sap.com/2013/05/21/sap-pi-for-beginners/
 * https://cloudmixdj.com/2019/09/05/what-the-fusiaola-turning-business-requirements-into-salesforce-architecture/
+
+#### Apex Testing
+* https://salesforce.stackexchange.com/questions/244788/how-do-i-write-an-apex-unit-test
