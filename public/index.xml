@@ -5,10 +5,30 @@
     <link>/</link>
     <description>Recent content in Home on no exceptions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Jan 2021 06:00:00 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2021 06:00:00 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>what am i doing?</title>
+      <link>/self/self-improve/kya_leke_aye_ho/</link>
+      <pubDate>Thu, 04 Mar 2021 06:00:00 +0600</pubDate>
+      
+      <guid>/self/self-improve/kya_leke_aye_ho/</guid>
+      <description>This was really a post that was written two years back on the list of things I want to do; two years went and I don&amp;rsquo;t feel I gave it a decent go.
+And this is in no way an isolated event - I make plans and then life hits you and what I want to do goes out of the window.
+A combination of things are forcing me to articulate the goals and seeing how I can visualize and achieve it, this time.</description>
+    </item>
+    
+    <item>
+      <title>Go JSON CSV</title>
+      <link>/tech/go/go-start/</link>
+      <pubDate>Mon, 01 Mar 2021 06:00:00 +0600</pubDate>
+      
+      <guid>/tech/go/go-start/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How do I design an SFDC Solution</title>
@@ -48,17 +68,45 @@ https://developer.salesforce.com/docs/atlas.en-us.202.0.apexcode.meta/apexcode/a
     
     <item>
       <title>I am the best! - Ali</title>
-      <link>/self/the-finger/</link>
+      <link>/self/self-improve/the-finger/</link>
       <pubDate>Sun, 23 Aug 2020 16:00:00 +1200</pubDate>
       
-      <guid>/self/the-finger/</guid>
+      <guid>/self/self-improve/the-finger/</guid>
       <description>In a world defined by cut throat competition, with no one really looking out for you; How do you shine with the skills that you have?
- Here&#39;s to the crazy ones.
+ Here&amp;rsquo;s to the crazy ones.
 The misfits. The rebels. The troublemakers.
 The round pegs in the square holes.
 The ones who see things differently.
-They&#39;re not fond of rules. And they have no respect for the status quo.
+They&amp;rsquo;re not fond of rules. And they have no respect for the status quo.
 You can quote them, disagree with them, glorify or vilify them.</description>
+    </item>
+    
+    <item>
+      <title>Laal Maas - Rajasthani Game Dish</title>
+      <link>/self/food/laal-maas/</link>
+      <pubDate>Sun, 23 Aug 2020 16:00:00 +1200</pubDate>
+      
+      <guid>/self/food/laal-maas/</guid>
+      <description>Ingredients 1kg mutton
+100gm garlic paste
+50gm crushed garlic cloves
+25gm crushed ginger
+100gm ginger paste
+200gm tomato purée
+150gm whipped curd
+300gm desi ghee (clarified butter)
+2 bay leaves
+4 tsp coriander seeds
+4 black cardamom seeds
+5 green cardamom seeds
+2 cinnamon sticks
+6 cloves
+2 pieces of nutmeg
+15 deseeded Mathania chillies
+2 1/2 tsp Kashmiri red chilli
+1 Onion sliced thin
+3/4 tsp turmeric
+1 cup water</description>
     </item>
     
     <item>
@@ -67,7 +115,11 @@ You can quote them, disagree with them, glorify or vilify them.</description>
       <pubDate>Mon, 10 Feb 2020 10:14:00 +0600</pubDate>
       
       <guid>/self/to-do/</guid>
+<<<<<<< HEAD
       <description> https://wakatime.com/developers https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000G5Eu9UAF https://developer.salesforce.com/docs/metadata-coverage/51 https://hapicloud-apiportal.apigee.io/docs/hapi-data-model-v3/1/overview  SAP
+=======
+      <description> https://wakatime.com/developers https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000G5Eu9UAF https://developer.salesforce.com/docs/metadata-coverage/51 https://hapicloud-apiportal.apigee.io/docs/hapi-data-model-v3/1/overview https://github.com/kuchin/awesome-cto https://thevaluable.dev/vim-beginner/ https://thevaluable.dev/vim-intermediate/ https://thevaluable.dev/vim-advanced/  SAP
+>>>>>>> 4d972fe66e8982b83596f648924510a4028b30ee
  https://blogs.sap.com/2013/05/21/sap-pi-for-beginners/ https://cloudmixdj.com/2019/09/05/what-the-fusiaola-turning-business-requirements-into-salesforce-architecture/  </description>
     </item>
     

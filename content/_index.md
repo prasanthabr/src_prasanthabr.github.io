@@ -3,8 +3,12 @@ title: Home
 menu: 
 weight: -270
 ---
+[_of all the gin joints in all the towns in all the world, she walks into mine..._](https://www.bbc.co.uk/programmes/articles/22MqWw0PKFLLpDLhhSgk278/heres-looking-at-you-why-is-casablanca-so-very-quotable)
 
-Keep seeking anew; push your regrets out of the way.  
+There is no clear blue day to live life to the fullest;  
+this is it; whatever you have been dealt; live it to the fullest;  
+Keep seeking anew; push regrets away; be the best version of you;  
+ 
 [Nothing really matters](https://www.youtube.com/watch?v=fJ9rUzIMcZQ), unless you want it to.  
 
 > We are not now that strength which in old days  
