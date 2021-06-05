@@ -5,7 +5,7 @@ weight: -270
 ---
 [the majority is always wrong](https://www.youtube.com/watch?v=VNGFep6rncY)  
 
-The answers have changed; the things that took you here will not take you there; avoiding mental myopia
+When the answers have changed; the things that took you here will not take you where you want to be; on avoiding mental myopia
 
 [_of all the gin joints in all the towns in all the world, she walks into mine..._](https://www.bbc.co.uk/programmes/articles/22MqWw0PKFLLpDLhhSgk278/heres-looking-at-you-why-is-casablanca-so-very-quotable)
 

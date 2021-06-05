@@ -32,7 +32,7 @@ customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
-gyan = "**This site in on a (_constant_) state of (re)build**"
+gyan = "This site in on a (_constant_) state of (re)build"
 prefix = "any original content here is free as the clean [Aotearoa](https://www.newzealand.com/int/) air"
 holder = "prasanth abraham"
 startYear = ""
@@ -83,7 +83,7 @@ gitlab = ""
 instagram = ""
 linkedin = ""
 twitter = ""
-telegram = "onlyexception"
+telegram = ""
 google_scholar = ""
 youtube = ""
 
