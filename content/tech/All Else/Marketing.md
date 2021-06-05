@@ -9,7 +9,7 @@ slug: ae-marketing
 draft: true
 ---
 
-### B2B Marketing Journey
+### B2B Buyer Decision Journey
 1. Awareness
 1. Interest
 1. Consideration
