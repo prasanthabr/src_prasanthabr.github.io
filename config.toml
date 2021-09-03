@@ -37,7 +37,7 @@ prefix = "any original content here is free as the clean [Aotearoa](https://www.
 holder = "prasanth abraham"
 startYear = ""
 suffix = "| find any of this useful? [go nuts](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))"
-finger = "disagree with something? [Meh!](https://www.urbandictionary.com/define.php?term=Meh) primary audience is a future me"
+finger = "disagree with something? [Talk to me](https://t.me/netzap); Don't like something [Meh!](https://www.urbandictionary.com/define.php?term=Meh) primary audience is a future me"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -83,7 +83,7 @@ gitlab = ""
 instagram = ""
 linkedin = ""
 twitter = ""
-telegram = ""
+telegram = "netzap"
 google_scholar = ""
 youtube = ""
 

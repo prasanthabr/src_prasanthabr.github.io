@@ -10,6 +10,6 @@ slug: self
 ---
 Rant Shout Scream Live  
 
-Always remember, your focus determines your reality.  
+Your focus determines your reality.  
 
 One's philosophy is not best expressed in words; it is expressed in the choices one makes. In the long run, we shape our lives, and we shape ourselves. The process never ends until we die. And the choices we make are ultimately our own responsibility  
