@@ -5,7 +5,7 @@ menu:
   main:
   sidebar:
     identifier: tech
-weight: -250
+weight: -230
 slug: tech
 ---
 

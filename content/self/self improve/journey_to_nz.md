@@ -20,7 +20,7 @@ The things that inspired me towards this:
 
 So, in the spirit of building trunks and bettering the odds that I will reach it:  
 
-Before Oct 1st 2021
+Before Jan 1st 2022 (One month near the deadline I am worse off than I have ever been. I have reset the timelines)
 
 1. You are in the tech industry; understand the fundamentals
     1. Complete with aces the CS50 Program
@@ -30,6 +30,3 @@ Before Oct 1st 2021
     1. Do a Big 3 circuit with a 20kg kettlebell for 120 days with no cheat days
     1. Get your weight down to 90 kgs
     1. Do 10 full burpees for 60 days with no cheat days  
-
-
-*You know your long shot goal; do not work on that till 1st Oct 2021*
