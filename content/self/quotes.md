@@ -17,6 +17,7 @@ draft: false
 > Made weak by time and fate, but strong in will  
 > To strive, to seek, to find, and not to yield.  
 
+---
 
 > Here's to the crazy ones.  
 > The misfits. The rebels. The troublemakers.  
@@ -33,3 +34,8 @@ draft: false
 > Because the people who are crazy enough to think they can change the world, are the ones who do.
 
 -- [*Rob Siltanen*](https://fs.blog/2016/03/steve-jobs-crazy-ones/)
+
+---
+
+https://www.youtube.com/watch?v=TGD--bDcpnQ
+{{< ref "See It Through">}}
