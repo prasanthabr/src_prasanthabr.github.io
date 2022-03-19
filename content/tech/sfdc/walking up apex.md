@@ -9,6 +9,32 @@ tags:
 slug: walking-up-in-apex
 draft: false
 ---
+updated on 20Jan22
+
+Random thoughts on Apex development
+1. Avoid deeply nexted if statements --> find a pattern that should be used in a
+   cascade of checks?
+2. Small functions with easily testable inputs and outputs --> what are
+   functions here? Are these methods?
+3. Fast Tests --> meaning short tests that execute quickly
+4. Good balance between abstraction and implementation --> have no clue what
+   this means?? --> apparently a good example is when code (tests) are written
+   with so many helper functions (I have seen helpers in rails, but should
+   understand what this means universally) that it is difficult to read and
+   understand what the code does. New funcationality added will break tests -->
+   this is something that was observed.
+
+   what are chunking errors? --> need to read further
+
+   Method Overloading --> seems to be the way of defining the same method with
+   multiple signatures --> input values; ! wonder if its the same output type
+   --> from memory no; have to recheck.
+
+## Brain Dump
+- YCombinator School
+- Plan how to market
+- Micro Sites
+
 picking up on apex
 
 ## Data Types

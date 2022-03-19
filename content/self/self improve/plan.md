@@ -1,4 +1,3 @@
-
 ---
 date: 2019-06-06T06:00:00+06:00
 lastmod: 2019-06-06T17:30:00+06:00
@@ -13,13 +12,20 @@ slug: self
 draft: true
 ---
 
+Creating a brand for yourself and a style
+Writings and background to build credentials
+Portfolio of apps
+Build tools
+
+x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
 what is my focus for sept
+
 - get skilled on apex
 - finish the three certs
 - improve image in wider Sf audience (blogs / use case etc)
 
 Salesforce Automation from Multiple process builders
-
 
 pandoc notes(04-Sep-2019).md --highlight-style tango -V geometry:margin=1in -o 920-notes.pdf
 
@@ -32,6 +38,6 @@ write to let people know how you did something
 
 it needs to be a story? -- or detailed with insights
 
-------------------------------------------------
+---
 
-1. Partner 
+1. Partner
