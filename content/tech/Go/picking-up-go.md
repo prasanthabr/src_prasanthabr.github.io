@@ -6,7 +6,7 @@ authors: ["prasanthabr"]
 categories:
 tags:
 slug: go-tutorials-start1
-draft: false
+draft: true
 ---
 
 Started hacking together scripts to work through a few problems with Salesforce metadata

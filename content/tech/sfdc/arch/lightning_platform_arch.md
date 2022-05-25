@@ -10,3 +10,12 @@ tags: ["design"]
 slug: aw-arch-intro
 draft: true
 ---
+
+- martin fowler
+- service pattern
+- domain pattern
+- mapping pattern
+- component methodology -- interfaces
+
+Sprint
+https://dschool.stanford.edu/

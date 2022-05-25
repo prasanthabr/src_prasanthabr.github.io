@@ -1,12 +1,12 @@
 ---
 date: "2022-02-14T22:56:30+13:00"
 title: "What does it take to sell Idli"
-authors: [prasanthabr]
+authors: [prasanth]
 categories:
   - entrepreneur
 tags:
   - ideas
-draft: false
+draft: true
 ---
 
 making the idli
